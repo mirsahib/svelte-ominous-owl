@@ -26,5 +26,8 @@
 <a href="/profile">Profile</a>
 <a href="/about">About</a>
 <a href="/products">Product</a>
+<a href="/login">Login</a>
+<a href="/register">Register</a>
+
 
 <button on:click={handleClick}>Place Order</button>
