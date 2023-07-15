@@ -1,0 +1,1 @@
+<h1>Product home page</h1>
